@@ -6,7 +6,8 @@ to predict the bike_sharing pattern on a real dataset. This project strengthens 
 the basic concepts including gradient descent and backpropagation through building a neural network from scratch.
 
 ## Test :octocat:
-1. Clone this repo to your local computer.
+1. Clone this repo to your local computer by running:
+* ```git clone https://github.com/JIMLYY/Predicting_Bike_Sharing_Patterns.git```
 2. If you have anaconda installed, 
 * You can creat a new environment for this project by entering 
 ```conda create --name deep-learning python=3``` in the command line. 
